@@ -10,7 +10,8 @@ A **Power BI dashboard** designed to analyze gym business performance, membershi
 
 ### Home Page Only 
 *For a view of the complete dashboard, including the Member Profile page, please refer to the PDF file: "Fitness Analytics Board."*
-<img width="1197" height="653" alt="image" src="https://github.com/user-attachments/assets/fb0ccb6f-e549-47a3-b884-66ec343f9007" />
+![1](https://github.com/user-attachments/assets/0ee6179d-154c-43d4-85fa-9d556eea51f1)
+
 
 
 
